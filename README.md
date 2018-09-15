@@ -1,3 +1,7 @@
+# Attribution 
+
+This repo is largely based on [awd-lstm-lm](https://github.com/salesforce/awd-lstm-lm) from [Salesforce Research](https://einstein.ai/).
+
 # LSTM and QRNN Language Model Toolkit
 
 This repository contains the code used for two [Salesforce Research](https://einstein.ai/) papers:
